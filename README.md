@@ -74,3 +74,16 @@ print("hello world")
 * [] Tarea 1
 * [] Tarea 2
 * [x] Tarea 3 completada porque tiene x
+
+<!-- GITHUB -->
+
+<!-- TODO -->
+* [ ] Tarea 1
+* [ ] Tarea 2
+* [x] Tarea 3 completada porque tiene x
+
+<!-- MENTIONING USERS -->
+@faztweb
+
+<!-- EMOJIS -->
+:smiley:
